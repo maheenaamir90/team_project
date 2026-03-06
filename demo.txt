@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This line is updated in main branch.
+=======
+This line is updated in feature-conflict branch.
+
+>>>>>>> feature-conflict
